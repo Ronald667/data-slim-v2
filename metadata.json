@@ -1,0 +1,6 @@
+{
+  "name": "Data Slim V2 Browser",
+  "description": "A data-saving proxy browser for South Africa. Save 80% data browsing lightweight web pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
